@@ -6,11 +6,11 @@
 <h2>¿Quien soy?</h2>
 <p>Soy un Programador Full Stack, con un manejo de errores consiente y eficaz..
 
-Como siempre digo, soy alguien muy curioso, cuando se me mete algo en la cabeza no paro hasta conseguirlo. Y asi fue como entre al mundo del Desarrollo, por mi curiosidad de aprender algo completamente nuevo para mi.</p>
+Como siempre digo, soy alguien muy persistente, cuando se me mete algo en la cabeza no paro hasta conseguirlo. De la misma manera empeze a estudiar programacion, me mantengo actualizado con nuevas librerias o nuevas features sobre las mismas.</p>
 <br/>
 <h2>¿Que hago?</h2>
-<p>Actualmente dedico mi tiempo a mejorar mis habilidades como programador, reforzando mis conocimientos y creando proyectos en base a ellos. 
-Para poder conseguir mi primer trabajo, y poder brindar todo ese conocimiento adquirido.</p>
+<p>Actualmente dedico mi tiempo a mejorar mis habilidades como programador mientras *BUSCO TRABAJO*, reforzando mis conocimientos y creando proyectos en base a ellos. 
+Para poder conseguir trabajo, y poder brindar todo ese conocimiento adquirido.</p>
 <br/>
 
 <h2>¿Que tecnologias uso?</h2>
@@ -26,14 +26,18 @@ Para poder conseguir mi primer trabajo, y poder brindar todo ese conocimiento ad
     <li>GIT</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Postman</li>
+    <li>SQLite</li>
+    <li>Babel</li>
+    <li>Morgan</li>
   </ul>
 </p>
 
 <h2>Si te interesa saber mas de mi, no dudes en contactarme!😄</h2>
   <ul>
-    <li>Dario Rojas | LinkedIn </li>
-    <li>Mail: @dario43055@gmail.com</li>
-    <li>Celular: +543329663004 </li>
+    <li>Nicolas Beovide | LinkedIn </li>
+    <li>Mail: nico1803o@hotmail.com.ar </li>
+    <li>Celular: +54 0 911 65679875 </li>
 
   </ul>
 
