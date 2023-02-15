@@ -35,7 +35,7 @@ Para poder conseguir trabajo, y poder brindar todo ese conocimiento adquirido.</
 
 <h2>Si te interesa saber mas de mi, no dudes en contactarme!😄</h2>
   <ul>
-    <li> <a href='https://www.linkedin.com/in/nicolas-beovide/'> Nicolas Beovide | LinkedIn </a> </li>
+    <li> <a Target="_blank" href='https://www.linkedin.com/in/nicolas-beovide/'> Nicolas Beovide | LinkedIn </a> </li>
     <li> Mail: nico1803o@hotmail.com.ar </li>
     <li> Celular: +54 0 911 65679875 </li>
  </ul>
